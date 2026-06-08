@@ -4,4 +4,4 @@ This repository contains data for an analysis of electricity demand across US Ba
 
 The data here were used to conduct retrospective and prospective analyses for shifting electrcity demand under different climate conditions. The results from this study are currently under review. 
 
-A permanent version of this repository has been published via Zenodo: [![DOI](https://zenodo.org/badge/1263000593.svg)](https://doi.org/10.5281/zenodo.20596760).
+A permanent version of this repository has been published via [Zenodo](https://doi.org/10.5281/zenodo.20596760).
